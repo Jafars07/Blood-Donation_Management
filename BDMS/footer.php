@@ -1,0 +1,30 @@
+<html>
+<head>
+  <style>
+  #footer {
+
+  position:absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 75px;
+  background-color:#000000;
+  color:white;
+  text-align: center;
+  padding-top: 20px;
+}
+  </style>
+</head>
+<body>
+  <div id="footer" >
+  <b><center>
+  Blood Bank & Donation Management System
+
+  
+  </center>
+  </div>
+
+
+</body>
+
+</html>
